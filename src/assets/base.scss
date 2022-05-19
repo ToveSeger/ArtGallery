@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto&display=swap');
+
+
+//Colors
+$color-bubblegum: #ff77bc;
+$color-pink: #ec1385;
+$color-beige: beige;
+$color-gray-light:rgb(197, 193, 193);
+$color-gray-dark:rgb(70, 68, 68);
+$color-olive: rgb(157, 157, 45);
+$color-mint:#22dd91;
+$color-green-complementary: #13EC7A;
+$color-blue:#2D2D9D;
+
+
+//Fonts
+$Roboto--regular-400:'Roboto', sans-serif;
+$Lobster--regular-400: 'Lobster', cursive; 
+
+body{
+  margin:0;
+  background-color:$color-beige;
+  font-family: $Roboto--regular-400;
+}

@@ -1,0 +1,16 @@
+[
+    {"id": 1, "name": "Birds on a branch", "icon": "train", "price": {"SEK": 149, "NOK": 167}, "category": "birds", "imageName": "birds.jpg"},
+    {"id": 1, "name": "Flowers", "icon": "train", "price": {"SEK": 149, "NOK": 167}, "category": "flowers", "imageName": "flowers.jpg"},
+    {"id": 2, "name": "Abstract I", "icon": "doll", "price": {"SEK": 149, "NOK": 167}, "category": "abstract", "imageName": "abstract.jpg"},
+    {"id": 1, "name": "Abstract II", "icon": "train", "price": {"SEK": 149, "NOK": 167}, "category": "abstract", "imageName": "colors.jpg"},
+    {"id": 2, "name": "Face", "icon": "doll", "price": {"SEK": 149, "NOK": 167}, "category": "portraits", "imageName": "face.jpg"},
+    {"id": 1, "name": "Abstract III", "icon": "train", "price": {"SEK": 149, "NOK": 167}, "category": "abstract", "imageName": "purple.jpg"},
+    {"id": 2, "name": "Birds in nature", "icon": "doll", "price": {"SEK": 149, "NOK": 167}, "category": "birds", "imageName": "birds_green.jpg"},
+    {"id": 1, "name": "Mountain", "icon": "train", "price": {"SEK": 149, "NOK": 167}, "category": "nature", "imageName": "nature_mountain.jpg"},
+    {"id": 2, "name": "Angels", "icon": "doll", "price": {"SEK": 149, "NOK": 167}, "category": "other", "imageName": "angels.jpg"},
+    {"id": 1, "name": "Flowers, lighter", "icon": "train", "price": {"SEK": 149, "NOK": 167}, "category": "flowers", "imageName": "flowers_vase.jpg"},
+    {"id": 2, "name": "Doll Vera", "icon": "doll", "price": {"SEK": 149, "NOK": 167}, "category": "nature", "imageName": "white_palms.jpg"},
+    {"id": 1, "name": "Toy train", "icon": "train", "price": {"SEK": 149, "NOK": 167}, "category": "birds", "imageName": "birds_together.jpg"},
+    {"id": 2, "name": "Doll Vera", "icon": "doll", "price": {"SEK": 149, "NOK": 167}, "category": "birds", "imageName": "bird_owl.jpg"}
+
+]
