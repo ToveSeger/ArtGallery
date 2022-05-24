@@ -1,0 +1,7 @@
+[
+    {"id": 1, "name": "Georg Van Der Vrien", "imageName": "Georg.jpg", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."},
+    {"id": 2, "name": "Maddox Leicht", "imageName": "Maddox.jpg", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."},
+    {"id": 3, "name": "Leia Vee", "imageName": "Leia.jpg", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."},
+    {"id": 4, "name": "Magdalena Kuwas", "imageName": "Magdalena.jpg", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."},
+    {"id": 5, "name": "Daisy Rose", "imageName": "Daisy.jpg", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."}
+]

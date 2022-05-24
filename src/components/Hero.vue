@@ -14,10 +14,10 @@
 .art-gallery__hero{
     height:30rem;
     width:100vw;
-    margin:auto;
+    margin:0 0 3rem 0;
     background-color:inherit;
     padding:2rem;
-    background-image: url(../../public/img/hero_bg.jpg);
+    background-image: url(../../public/img/global/hero_bg.jpg);
 
     background-repeat:no-repeat;
 

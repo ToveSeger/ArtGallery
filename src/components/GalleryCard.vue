@@ -27,7 +27,7 @@
 
         methods: {
             getImage(imageName){
-               return "../../public/img/" + imageName
+               return "../../public/img/arts/" + imageName
             }
         },
 }

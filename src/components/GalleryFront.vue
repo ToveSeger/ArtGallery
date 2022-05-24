@@ -1,9 +1,9 @@
 <template>
-    <div  class="gallery-front"> 
-    <div v-for="a in art.slice(0,10)" :key="a" class="gallery-front_inner_container">
-         <GalleryCard 
-         :art="a"/>
-        </div> 
+    <div  class="gallery--front"> 
+        <div v-for="a in art.slice(0,10)" :key="a" class="gallery-front--inner_container">
+            <GalleryCard 
+            :art="a"/>
+            </div> 
     </div>
 </template>
 
@@ -29,15 +29,15 @@ export default {
 
 <style lang="scss" scoped>
 
- .gallery-front{
+ .gallery--front{
         display: flex;
         gap:2rem;
         width:80%;
         margin:4rem auto;
         flex-wrap:wrap;
         justify-content:flex-start;
-    .gallery-front_inner_container{
-        margin-left:2.5rem;
-    }
+}
+.gallery-front--inner_container{
+    margin-left:2.5rem;
 }
 </style>

@@ -1,6 +1,6 @@
 <template>
     <nav>
-        <img class="logotype" src="../../public/img/artgallery_logo.png"  alt="">
+        <img class="logotype" src="../../public/img/global/artgallery_logo.png"  alt="">
         <!-- <NavigationLinks></NavigationLinks> -->
         <NavigationMobile></NavigationMobile>
     </nav>
